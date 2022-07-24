@@ -10,7 +10,7 @@ import math
 def paint_calc(height,cover,width):
     num_of_cans=math.ceil((height*width)/cover)
 #    num_of_cans=round((height*width)/cover)
-# math.ciel is prefered in this case as 1.2 would rounf off to 1 in round function. 
+# math.ceil is prefered in this case as 1.2 would rounf off to 1 in round function. 
 # Number of paint cans will not be sufficient if we buy 1 can to paint
     print(num_of_cans)
 

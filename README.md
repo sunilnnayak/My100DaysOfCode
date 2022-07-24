@@ -13,3 +13,7 @@ More Info [here](Day4/Day4.md)
 More Info [here](Day5/Day5.md)
 # Day 6
 More Info [here](Day6/Day6.md)
+# Day 7
+More Info [here](Day7/Day7.md)
+# Day 8
+More Info [here](Day8/Day8.md)
