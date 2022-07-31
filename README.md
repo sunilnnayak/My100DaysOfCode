@@ -2,18 +2,22 @@
 Learning Python in this 100 days of code challenge
 
 # Day 1
-More Info [here](Day1/Day1.md)
+More Info [here](Day01/Day01.md)
 # Day 2
-More Info [here](Day2/Day2.md)
+More Info [here](Day02/Day02.md)
 # Day 3
-More Info [here](Day3/Day3.md)
+More Info [here](Day03/Day03.md)
 # Day 4
-More Info [here](Day4/Day4.md)
+More Info [here](Day04/Day04.md)
 # Day 5
-More Info [here](Day5/Day5.md)
+More Info [here](Day05/Day05.md)
 # Day 6
-More Info [here](Day6/Day6.md)
+More Info [here](Day06/Day06.md)
 # Day 7
-More Info [here](Day7/Day7.md)
+More Info [here](Day07/Day07.md)
 # Day 8
-More Info [here](Day8/Day8.md)
+More Info [here](Day08/Day08.md)
+# Day 9
+More Info [here](Day09/Day09.md)
+# Day 10
+More Info [here](Day10/Day10.md)
