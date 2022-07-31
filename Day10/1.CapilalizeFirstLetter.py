@@ -33,7 +33,10 @@ print(formated_string)
 #We can even have multiple return statements
 def format_name(f_name, l_name):
     if f_name=="" or l_name=="":
-        return
+        return "You do not have valid input"
+# if we have not given first or the last name it should not go through the below codes
+# hence return is used to bypass this. This tells the function to exit
+# better to give any valid statement in return to notify user. Else it will show as None
     formated_f_name=print(f_name.title())
     formated_l_name=print(l_name.title())
 
