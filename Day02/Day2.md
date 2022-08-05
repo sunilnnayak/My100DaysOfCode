@@ -32,7 +32,7 @@ print(type(len(input("what is ur name"))))     --- <class 'int'>   , type checki
 
 
 num_char=len(input("what is ur name? "))          ---what is ur name? Sunil
-new_num_char=str(num_char)
+new_num_char=str(num_char)                          ---(type conversion)
 print("UR name has "+ new_num_char+ "charecter")   --- UR name has 5 charecter
 
 

@@ -22,6 +22,7 @@ print("hello " +input("what is your name?"))   --- what is your name?Sunil
                                                     hello sunil
 
 print(len("sunil"))           --- 5
+print(len(input("what is your name? ")))     --- here we have 3 functions
 
 
 4. Python Variables-
@@ -31,3 +32,7 @@ Variable name should not contain space.
 Variable name should not start with number.
 Variable name should not be a python kwywords like print, input, ...
 
+#program to switch valuses stored in variable a and b
+c=a
+a=b
+b=c
