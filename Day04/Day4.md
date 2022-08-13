@@ -22,7 +22,7 @@ fruits[1]= orange
 print(fruits)                   ---["apple","orange","pear"]
 
 fruits.append("fruit")           ---["apple","orange","pear"."fruits"]
-                                     adds 1 item at the end of the list
+                                     adds single item at the end of the list
 
 IndexError:List index out of range
 print(fruits[8])

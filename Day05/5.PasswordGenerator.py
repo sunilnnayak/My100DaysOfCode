@@ -27,7 +27,7 @@ print(password)
 password_list=[]
 
 for char in range (1,nr_letters+1):
-    password_list.append(random.choice(letters))
+    password_list.append(random.choice(letters))            # we can also use password+=random.choice(letters)
 for symbol in range (1,nr_symbols+1):
     password_list.append(random.choice(symbols))
 for number in range (1,nr_numbers+1):
@@ -40,6 +40,7 @@ print(password_list)
 random.shuffle(password_list)
 print(password_list)
 
+#to convert it back into string
 new_password = ""
 for i in password_list:
     new_password+=i

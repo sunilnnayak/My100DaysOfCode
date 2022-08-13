@@ -3,10 +3,10 @@
 # Remember to use the `round()` function to round the average height before you print it.
 
 student_heights = input("Input a list of student heights ").split()
-print(student_heights)
+#print(student_heights)
 for n in range(0, len(student_heights)):
   student_heights[n] = int(student_heights[n])
-  print(student_heights)
+#  print(student_heights)
 # 🚨 Don't change the code above 👆
 
 total_height=0
