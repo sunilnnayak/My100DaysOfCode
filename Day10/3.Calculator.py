@@ -40,6 +40,6 @@ def calculator():
     else:
       should_continue = False
       clear()
-      calculator()
+      calculator()     #this is called recurssion, calling calculator function inside calculator function. We have to use it carefully with conditions or else it may go in infinite loop
 
 calculator()

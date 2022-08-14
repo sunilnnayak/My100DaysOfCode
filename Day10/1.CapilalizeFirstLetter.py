@@ -8,8 +8,8 @@ format_name("sunil","SUNIL")
 
 ##
 def format_name(f_name, l_name):
-    formated_f_name=print(f_name.title())
-    formated_l_name=print(l_name.title())
+    formated_f_name=f_name.title()
+    formated_l_name=l_name.title()
 
     print(f"{formated_f_name} {formated_l_name}")
 
@@ -17,8 +17,8 @@ format_name("sunil","SUNIL")
 
 ###
 def format_name(f_name, l_name):
-    formated_f_name=print(f_name.title())
-    formated_l_name=print(l_name.title())
+    formated_f_name=f_name.title()
+    formated_l_name=l_name.title()
 
     return f"{formated_f_name} {formated_l_name}"
     #if we have print statement after return, it won't b execuited. Because return tells the computer that this is end of function
