@@ -22,10 +22,10 @@ More Info [here](Day09/Day09.md)
 # Day 10
 More Info [here](Day10/Day10.md)
 # Day 11
-More Info [here](Day10/Day11.md)
+More Info [here](Day11/Day11.md)
 # Day 12
-More Info [here](Day10/Day12.md)
+More Info [here](Day12/Day12.md)
 # Day 13
-More Info [here](Day10/Day13.md)
+More Info [here](Day13/Day13.md)
 # Day 14
-More Info [here](Day10/Day14.md)
+More Info [here](Day14/Day14.md)
